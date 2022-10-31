@@ -1,4 +1,5 @@
 ### Hi Developers 👋
+www.linkedin.com/in/baba-fakruddin-s-7442931a5
 
 I'm
 Full Stack Solution Architect
