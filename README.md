@@ -1,9 +1,6 @@
 ### Hi Developers 👋   I am BABA FAKRUDDIN
 I am an ECE graduate,aspire to become a full stack web developer.
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
-[![Linkedin Badge](https://img.shields.io/badge/-Baba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/baba-fakruddin-s-7442931a5/)](https://www.linkedin.com/in/baba-fakruddin-s-7442931a5/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Linkedin Badge](https://img.shields.io/badge/-Babafakruddin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/baba-fakruddin-s-7442931a5/)](https://www.linkedin.com/in/baba-fakruddin-s-7442931a5/)
 
 I'm
 Full Stack Solution Architect
