@@ -138,7 +138,7 @@ Languages and Tools:
 
 ![](https://activity-graph.herokuapp.com/graph?username=babafakruddin&theme=react-dark&area=true)
 <!--
-**babafakruddin567/babafakruddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**babafakruddin567/babafakruddin567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
