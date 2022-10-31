@@ -1,5 +1,5 @@
 ### Hi Developers 👋   I am BABA FAKRUDDIN
-I am an ECE graduate,aspire to become full stack web development.
+I am an ECE graduate,aspire to become a full stack web developer.
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
 [![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
@@ -136,7 +136,7 @@ Languages and Tools:
         <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"   />
     </a>
 
-![](https://activity-graph.herokuapp.com/graph?username=babafakruddin&theme=react-dark&area=true)
+![](https://activity-graph.herokuapp.com/graph?username=babafakruddin567&theme=react-dark&area=true)
 <!--
 **babafakruddin567/babafakruddin567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
